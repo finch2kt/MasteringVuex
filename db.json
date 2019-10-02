@@ -44,6 +44,42 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 173476,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Post Event Test",
+      "description": "Test of event will post",
+      "location": "ISAT Workspace room",
+      "date": "2019-10-02T03:54:00.000Z",
+      "time": "23:00",
+      "attendees": []
+    },
+    {
+      "id": 7286579,
+      "user": {
+        "id": "abc123",
+        "name": "Kashaun Finch"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Kashaun Finch"
+      },
+      "title": "Test event routing",
+      "description": "Test if we are routed to event",
+      "location": "Aspen clubhouse",
+      "date": "2019-10-02T05:09:00.000Z",
+      "time": "1:00",
+      "attendees": []
     }
   ]
 }

@@ -231,6 +231,78 @@
       "date": "",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "id": 9999229,
+      "user": {
+        "id": "abc123",
+        "name": "Kashaun"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Kashaun"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7379780,
+      "user": {
+        "id": "abc123",
+        "name": "Kashaun"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Kashaun"
+      },
+      "title": "Marfo is the Greatest",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4584165,
+      "user": {
+        "id": "abc123",
+        "name": "Kashaun"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Kashaun"
+      },
+      "title": "notification bar test",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4688329,
+      "user": {
+        "id": "abc123",
+        "name": "Kashaun"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Kashaun"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
